@@ -10,10 +10,6 @@ This is [**React Native**](https://reactnative.dev) project, bootstrapped using 
 
 Run `npm i`
 
-## Step 1: Install Dependencies
-
-### Install the project dependencies using npm or yarn.
-
 ## Step 2: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
